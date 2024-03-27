@@ -6,12 +6,11 @@
     <path fill="currentColor" fill-rule="evenodd" clip-rule="evenodd" d="M4.50088 5.8158V9.89943L9.10851 12V5.8158L13 1H1L4.50088 5.8158Z" stroke="#939393" stroke-linejoin="round"/>
   </symbol>
 
-<symbol id="icon-gantanhao" viewBox="0 0 12 11">
+<symbol id="icon-gantanhao" viewBox="0 0 12 11" fill="none" >
   <path  d="M6 0.75C8.62329 0.75 10.75 2.87671 10.75 5.5C10.75 8.12329 8.62329 10.25 6 10.25C3.37671 10.25 1.25 8.12329 1.25 5.5C1.25 2.87671 3.37671 0.75 6 0.75Z" stroke="#939393"/>
   <path  fill-rule="evenodd" clip-rule="evenodd" d="M6.5625 7.5625C6.5625 7.87316 6.31066 8.125 6 8.125C5.68934 8.125 5.4375 7.87316 5.4375 7.5625C5.4375 7.25184 5.68934 7 6 7C6.31066 7 6.5625 7.25184 6.5625 7.5625Z" fill="#939393"/>
   <path  d="M6 2.875V5.875" stroke="#939393" stroke-linecap="round"/>
 </symbol>
-
 
 </svg>
 
